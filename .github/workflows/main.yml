@@ -3,8 +3,9 @@ name: WakaTime
 on:
   workflow_dispatch:
   schedule:
+    # UTC 时间标准，比北京时间慢八小时
     # 每周一早上六点更新
-    - cron: "0 6 * * 1"
+    - cron: "0 22 * * 0"
 
 jobs:
   update-readme:
@@ -17,4 +18,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_year
           LANG_COUNT: 10
-          COMMIT_MESSAGE: 🚧 - Weekly update from WakaTime
+          COMMIT_MESSAGE: 🚧 Weekly update from WakaTime
