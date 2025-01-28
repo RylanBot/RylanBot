@@ -1,7 +1,11 @@
-# 🤖 Hey there
+# <img src="./images/BMO.gif" height="45"/> <img src="./images/Greeting.gif" height="45"/>
 
-![BMO](https://media.giphy.com/media/AMqCTHuCMFpM4/giphy.gif)
+<p>
+<img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-blue?style=flat-square&logo=Node.js&logoColor=white" /> 
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-dodgerblue?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-deepskyblue?style=flat-square&logo=react&logoColor=white" />
+</p>
 
-🏠 I am currently pursuing a bachelor's degree in **Computer Science and Software Engineering**.
+🏠 I am pursuing a Bachelor's degree in Software Engineering in China.
 
-🎲 I hold a genuine interest in **all technology** and just learn whatever it takes to make it work.
+🎲 I have a passion for using technology to make a difference in the world.
