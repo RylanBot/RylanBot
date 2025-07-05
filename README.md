@@ -1,4 +1,4 @@
-# <img src="./images/BMO.gif" height="45"/> <img src="./images/Greeting.gif" height="45"/>
+# <img src="./images/BMO.gif" width="45"/> <img src="./images/Greeting.gif" height="45"/></p>
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-deepskyblue?style=flat-square&logo=react&logoColor=white" />
