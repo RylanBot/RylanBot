@@ -8,9 +8,9 @@
 </p>
 
 ```diff
-- 🎓 I earned a Bachelor's degree in Software Engineering in 2025.
-+ 💻 I work as a Front-end Engineer at Tencent, Shenzhen at present.
+- 🎓 B.Eng. in Software Engineering (2025)
++ 💻 Front-end Engineer at Tencent (now)
 
-- 🍄 I have a passion for using code to make a difference in the world.
-+ 🌴 I build a lot of open-source projects to explore creative ideas.
+- 🍄 Use code to make a difference in the world
++ 🌴 Build open-source projects to explore creative ideas
 ```
